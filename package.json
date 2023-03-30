@@ -1,8 +1,7 @@
 {
-  "name": "kachabazar-store",
+  "name": "7x24-store",
   "version": "0.1.0",
-  "description": "this is kachabazar-store built with next.js and tailwindcss",
-  "homepage": "https://kachabazar-store.vercel.app/",
+  "description": "this is 7x24-store built with next.js and tailwindcss",
   "private": true,
   "scripts": {
     "dev": "next dev",

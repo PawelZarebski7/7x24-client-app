@@ -16,17 +16,9 @@ const TermAndConditions = () => {
         <div className="max-w-screen-2xl mx-auto lg:py-20 py-10 px-3 sm:px-10">
           <div className="mb-8 lg:mb-12 last:mb-0">
             <h2 className="text-xl xl:text-2xl xl:leading-7 font-semibold font-serif mb-2 lg:mb-4">
-              Welcome to KachaBazar!
+              Welcome to 7x24!
             </h2>
             <div className="font-sans leading-7">
-              <p>
-                These terms and conditions outline the rules and regulations for
-                the use of KachaBazar's Website, located at
-                https://kachabazar.com/. By accessing this website we assume you
-                accept these terms and conditions. Do not continue to use
-                KachaBazar if you do not agree to take all of the terms and
-                conditions stated on this page.
-              </p>
               <p>
                 The following terminology applies to these Terms and Conditions,
                 Privacy Statement and Disclaimer Notice and all Agreements:
@@ -51,15 +43,6 @@ const TermAndConditions = () => {
               Cookies
             </h2>
             <div className="font-sans leading-7">
-              <p>
-                We employ the use of cookies. By accessing KachaBazar, you
-                agreed to use cookies in agreement with the KachaBazar's Privacy
-                Policy. Most interactive websites use cookies to let us retrieve
-                the user’s details for each visit. Cookies are used by our
-                website to enable the functionality of certain areas to make it
-                easier for people visiting our website. Some of our
-                affiliate/advertising partners may also use cookies.
-              </p>
             </div>
           </div>
           <div className="mb-8 lg:mb-12 last:mb-0">
@@ -67,15 +50,6 @@ const TermAndConditions = () => {
               License
             </h2>
             <div className="font-sans leading-7">
-              <p>
-                Unless otherwise stated, KachaBazar and/or its licensors own the
-                intellectual property rights for all material on KachaBazar. All
-                intellectual property rights are reserved. You may access this
-                from KachaBazar for your own personal use subjected to
-                restrictions set in these terms and conditions.This Agreement
-                shall begin on the date hereof. Our Terms and Conditions were
-                created with the help of the Terms And Conditions Generator.
-              </p>
 
               <ul>
                 <strong className="mb-2">You must not:</strong>
@@ -105,19 +79,6 @@ const TermAndConditions = () => {
                   characteristics)
                 </li>
               </ul>
-              <p>
-                Parts of this website offer an opportunity for users to post and
-                exchange opinions and information in certain areas of the
-                website. KachaBazar does not filter, edit, publish or review
-                Comments prior to their presence on the website. Comments do not
-                reflect the views and opinions of KachaBazar,its agents and/or
-                affiliates. Comments reflect the views and opinions of the
-                person who post their views and opinions. To the extent
-                permitted by applicable laws, KachaBazar shall not be liable for
-                the Comments or for any liability, damages or expenses caused
-                and/or suffered as a result of any use of and/or posting of
-                and/or appearance of the Comments on this website.
-              </p>
             </div>
             <div className="my-6 lg:my-8 last:mb-0">
               <h2 className="text-xl xl:text-2xl xl:leading-7 font-semibold font-serif mb-2 lg:mb-4">

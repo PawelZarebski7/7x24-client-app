@@ -37,7 +37,7 @@ Tech and Packages we use in this project:
 
 Getting Started & Installation:
 
-For getting started with the template you have to follow the below procedure. First navigate to the kachabazar-admin directory.
+For getting started with the template you have to follow the below procedure. First navigate to the 7x24-admin directory.
 
 Step 1 : Configure your env.local file:
 

@@ -114,7 +114,7 @@ const Faq = () => {
                 {({ open }) => (
                   <>
                     <Disclosure.Button className="flex justify-between w-full px-4 py-3 text-base font-medium text-left text-gray-600 focus:text-emerald-500 bg-gray-50 hover:bg-emerald-50 rounded-lg focus:outline-none">
-                      <span>What is kachabazar EC2 auto scaling?</span>
+                      <span>What is 7x24 EC2 auto scaling?</span>
                       <ChevronUpIcon
                         className={`${
                           open ? 'transform rotate-180 text-emerald-500' : ''
@@ -137,7 +137,7 @@ const Faq = () => {
                   <>
                     <Disclosure.Button className="flex justify-between w-full px-4 py-3 text-base font-medium text-left text-gray-600 focus:text-emerald-500 bg-gray-50 hover:bg-emerald-50 rounded-lg focus:outline-none">
                       <span>
-                        What are the benefits of using kachabazar affliate?
+                        What are the benefits of using 7x24 affliate?
                       </span>
                       <ChevronUpIcon
                         className={`${

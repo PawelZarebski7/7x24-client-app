@@ -177,7 +177,7 @@ const contactData = [
     title: 'Email Us',
     info: 'Interactively grow empowered for process-centric total linkage.',
     icon: FiMail,
-    contact: 'kachabazar@gmail.com',
+    contact: '724@gmail.com',
     className: 'bg-emerald-100',
   },
   {

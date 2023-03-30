@@ -20,10 +20,6 @@ class MyDocument extends Document {
             content="7x24 Store"
           />
           <meta
-            property="og:url"
-            content="https://kachabazar-store.vercel.app/"
-          />
-          <meta
             property="og:image"
             content="https://res.cloudinary.com/ahossain/image/upload/v1636729752/facebook-page_j7alju.png"
           />
